@@ -1,2 +1,2 @@
 # Git-Good
-CRANE git tutorial through terminal
+GITting good with CRANE
